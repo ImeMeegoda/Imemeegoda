@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Imesha Meegoda</h1>
 <h3 align="center">Computer Science undergraduate</h3>
@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/imesha meegoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imesha meegoda" height="30" width="40" /></a>
-<a href="https://fb.com/imesha meegoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imesha meegoda" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/imesha-meegoda-180b31352/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imesha meegoda" height="30" width="40" /></a>
+
 <a href="https://www.instagram.com/ime_mz_meegoda_/?igsh=cGhrMDFvdGYxNWEw#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ime_mz_meegoda" height="30" width="40" /></a>
 </p>
 

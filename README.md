@@ -6,7 +6,10 @@
 - 🌱 I’m currently learning **Computer Science**
 
 - 📫 How to reach me **imemeegoda@gmail.com**
+
+  👨‍💻 Portfolio:
 - 📁 Check out my work:https://imemeegoda.github.io/imeshameegoda.github.io/
+  
 - ⚡ Fun fact **call me as ime**
 
 <h3 align="left">Connect with me:</h3>

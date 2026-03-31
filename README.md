@@ -4,7 +4,7 @@
 <h3 align="center">💻 Computer Science Undergraduate | Tech × Psychology × Design 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=6C63FF&center=true&vCenter=true&width=700&lines=Future+Software+Engineer;Flutter+Developer;UI%2FUX+Enthusiast;Psychology+Driven+Thinker;Cyber+Security+Learner;Digital+Marketing+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=6C63FF&center=true&vCenter=true&width=750&lines=Future+Software+Engineer;Flutter+Developer;UI%2FUX+Enthusiast;Cyber+Security+Learner;Digital+Marketing+Explorer;Psychology+Driven+Thinker" />
 </p>
 
 ---
@@ -13,33 +13,35 @@
 
 - 🎓 Computer Science Undergraduate  
 - 🧠 Passionate about **Psychology & Human Behavior in Technology**  
-- 📱 Interested in **Mobile App Development (Flutter)**  
-- 🎨 Love designing intuitive **UI/UX Experiences**  
+- 📱 Building Mobile Apps using **Flutter**  
+- 🎨 Designing intuitive **UI/UX experiences**  
 - 📈 Exploring **Digital Marketing & Branding Strategy**  
 - 🔐 Learning **Cyber Security & Secure Development Practices**  
-- 🌱 Always learning & building real-world projects  
-- 📫 Reach me: **imemeegoda@gmail.com**  
+- 🌱 Continuously improving technical & creative skills  
 - ⚡ Fun fact: Call me **Ime**
 
 ---
 
-## 🌐 Portfolio  
+# 🌐 Connect With Me  
 
-🚀 Check out my work here:  
-👉 **https://imemeegoda.github.io/imeshameegoda.github.io/**  
+<p align="center">
+<a href="mailto:imemeegoda@gmail.com">
+  <img src="https://img.shields.io/badge/Email-imemeegoda%40gmail.com-red?style=for-the-badge&logo=gmail">
+</a>
+<a href="https://www.linkedin.com/in/imesha-meegoda-180b31352/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Imesha%20Meegoda-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="https://www.instagram.com/ime_mz_meegoda_/?igsh=cGhrMDFvdGYxNWEw#" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-@ime__mz__meegoda-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+</p>
 
 ---
 
-## 🌍 Connect With Me  
+# 👨‍💻 Portfolio  
 
-<p align="center">
-<a href="https://www.linkedin.com/in/imesha-meegoda-180b31352/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" />
-</a>
-<a href="https://www.instagram.com/ime_mz_meegoda_/?igsh=cGhrMDFvdGYxNWEw#" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="50" />
-</a>
-</p>
+🚀 **Website:**  
+👉 https://imemeegoda.github.io/imeshameegoda.github.io/
 
 ---
 
@@ -74,7 +76,7 @@
 
 ---
 
-## 📱 Mobile App Development
+## 📱 Mobile Development
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="50"/>
@@ -90,7 +92,17 @@
 
 ---
 
-## 🎨 UI/UX & Design Tools
+## 📊 Data & Tools
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/>
+</p>
+
+---
+
+## 🎨 UI/UX & Design
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50"/>
 </p>
@@ -98,14 +110,14 @@
 ---
 
 ## 🔐 Cyber Security Interests
-- Secure coding practices  
-- Web application security  
-- Basic ethical hacking concepts  
-- Authentication & data protection  
+- Secure authentication systems  
+- Data privacy & encryption basics  
+- Web security principles  
+- Ethical hacking fundamentals  
 
 ---
 
-## 📊 GitHub Stats  
+# 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imemeegoda&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -117,20 +129,21 @@
 
 ---
 
-## 🎯 My Vision  
+# 🎯 My Mission  
 
-To combine  
+To merge  
 
 🧠 Psychology  
 🎨 UI/UX Design  
-💻 Software Engineering  
+💻 Full-Stack Development  
+📊 Data Analysis  
 🔐 Cyber Security  
 📈 Digital Marketing  
 
-and build secure, user-friendly, and impactful digital products.
+and create meaningful, secure, and user-centered digital solutions.
 
 ---
 
 <p align="center">
-✨ Building technology that understands people & protects them ✨
+✨ Building smart. Designing better. Securing stronger. ✨
 </p>

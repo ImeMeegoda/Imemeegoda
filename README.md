@@ -1,9 +1,10 @@
-<!-- HEADER -->
+<!-- ================= HEADER ================= -->
+
 <h1 align="center">Hi 👋, I'm Imesha Meegoda</h1>
-<h3 align="center">💻 Computer Science Undergraduate | Tech & Mind Explorer 🚀</h3>
+<h3 align="center">💻 Computer Science Undergraduate | Tech × Psychology × Design 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Future+Software+Engineer;Psychology+Enthusiast;UI%2FUX+Designer;Digital+Marketing+Explorer;Cyber+Security+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=6C63FF&center=true&vCenter=true&width=700&lines=Future+Software+Engineer;Flutter+Developer;UI%2FUX+Enthusiast;Psychology+Driven+Thinker;Cyber+Security+Learner;Digital+Marketing+Explorer" />
 </p>
 
 ---
@@ -11,24 +12,25 @@
 ## 🙋‍♂️ About Me  
 
 - 🎓 Computer Science Undergraduate  
-- 🧠 Passionate about **Psychology & Human Behavior**  
-- 🎨 Interested in **UI/UX Designing & User Experience Research**  
-- 📈 Exploring **Digital Marketing & Branding**  
-- 🔐 Learning **Cyber Security & Ethical Hacking Fundamentals**  
-- 🌱 Constantly improving my technical & creative skills  
-- 📫 Reach me at: **imemeegoda@gmail.com**  
+- 🧠 Passionate about **Psychology & Human Behavior in Technology**  
+- 📱 Interested in **Mobile App Development (Flutter)**  
+- 🎨 Love designing intuitive **UI/UX Experiences**  
+- 📈 Exploring **Digital Marketing & Branding Strategy**  
+- 🔐 Learning **Cyber Security & Secure Development Practices**  
+- 🌱 Always learning & building real-world projects  
+- 📫 Reach me: **imemeegoda@gmail.com**  
 - ⚡ Fun fact: Call me **Ime**
 
 ---
 
-## 👨‍💻 Portfolio  
+## 🌐 Portfolio  
 
-🌐 **My Website:**  
-👉 https://imemeegoda.github.io/imeshameegoda.github.io/
+🚀 Check out my work here:  
+👉 **https://imemeegoda.github.io/imeshameegoda.github.io/**  
 
 ---
 
-## 🌐 Connect With Me  
+## 🌍 Connect With Me  
 
 <p align="center">
 <a href="https://www.linkedin.com/in/imesha-meegoda-180b31352/" target="_blank">
@@ -41,55 +43,94 @@
 
 ---
 
-## 🛠️ Technical Skills  
+# 🛠️ Tech Stack  
 
-### 👨‍💻 Programming
+## 💻 Programming Languages
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
-</p>
-
-### 🌐 Web Development
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/>
 </p>
 
 ---
 
-## 🎨 Creative & Analytical Interests  
-
-- 🧠 **Psychology in Technology** (Human-centered design)
-- 🎯 **UI/UX Design Principles**
-- 📊 **Digital Marketing Strategy**
-- 🔐 **Cyber Security Awareness & Ethical Practices**
-- 💡 Understanding how people think, behave & interact with digital products
+## 🌐 Frontend Development
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+</p>
 
 ---
 
-## 📊 GitHub Statistics  
+## ⚙️ Backend Development
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50"/>
+</p>
+
+---
+
+## 📱 Mobile App Development
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="50"/>
+</p>
+
+---
+
+## 🗄️ Database & Cloud
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/google_firestore/google_firestore-icon.svg" width="50"/>
+</p>
+
+---
+
+## 🎨 UI/UX & Design Tools
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50"/>
+</p>
+
+---
+
+## 🔐 Cyber Security Interests
+- Secure coding practices  
+- Web application security  
+- Basic ethical hacking concepts  
+- Authentication & data protection  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imemeegoda&show_icons=true&theme=tokyonight&hide_border=true" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imemeegoda&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imemeegoda&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🎯 My Vision  
 
-To combine **Technology + Psychology + Design + Security**  
-and build digital products that are:
+To combine  
 
-✔️ User-friendly  
-✔️ Secure  
-✔️ Emotionally intelligent  
-✔️ Impactful  
+🧠 Psychology  
+🎨 UI/UX Design  
+💻 Software Engineering  
+🔐 Cyber Security  
+📈 Digital Marketing  
+
+and build secure, user-friendly, and impactful digital products.
 
 ---
 
 <p align="center">
-✨ Let’s create technology that understands people ✨
+✨ Building technology that understands people & protects them ✨
 </p>

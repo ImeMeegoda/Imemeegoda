@@ -44,6 +44,10 @@ https://imemeegoda.github.io/imeshameegoda.github.io/
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40"/>
 </a>
 
+<a href="mailto:imemeegoda@gmail.com">
+<img src="https://img.shields.io/badge/Email-imemeegoda@gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---

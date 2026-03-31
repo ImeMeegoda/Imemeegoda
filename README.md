@@ -36,16 +36,16 @@ https://imemeegoda.github.io/imeshameegoda.github.io/
 
 <p align="center">
 
+<a href="mailto:imemeegoda@gmail.com">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
+</a>
+
 <a href="https://www.linkedin.com/in/imesha-meegoda-180b31352/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/>
 </a>
 
 <a href="https://www.instagram.com/ime_mz_meegoda_/?igsh=cGhrMDFvdGYxNWEw#" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40"/>
-</a>
-
-<a href="mailto:imemeegoda@gmail.com">
-<img src="https://img.shields.io/badge/Email-imemeegoda@gmail.com-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>

@@ -133,13 +133,6 @@ https://imemeegoda.github.io/imeshameegoda.github.io/
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imemeegoda&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
 
 # 🎯 2026 Goals
 

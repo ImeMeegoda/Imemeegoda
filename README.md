@@ -39,7 +39,7 @@ https://imemeegoda.github.io/imeshameegoda.github.io/
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
 </a>
 
-<a href="https://www.linkedin.com/in/imesha-meegoda-180b31352/" target="_blank">
+<a href="https://www.linkedin.com/in/imesha-meegoda-180b31352" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/>
 </a>
 

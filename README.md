@@ -43,6 +43,10 @@ https://imemeegoda.github.io/imeshameegoda.github.io/
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/>
 </a>
 
+<a href="https://www.instagram.com/ime_mz_meegoda_?igsh=cGhrMDFvdGYxNWEw" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40"/>
+</a>
+
 </p>
 
 ---
@@ -144,8 +148,6 @@ https://imemeegoda.github.io/imeshameegoda.github.io/
 - **Personal Portfolio Website**
   - Designed and developed to showcase projects, skills, and certifications.
   - [View Portfolio](https://imemeegoda.github.io/imeshameegoda.github.io/)
-
----
 
 ---
 
